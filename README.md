@@ -19,3 +19,12 @@ I have finished the course on CLI. It was interesitng for me and now I'm trying 
 [Collaboration screenshot](task_git_collaboration/Git_coloboration.png) | [Version Control screenshot](task_git_collaboration/git_VS.png)
 
 I have finished git Collaboration and feel with git preety confident. But should be more practice! I have discovered some new knowledge that I didn't knew, like cherry-pick and rebase
+
+# Front-End Basics
+
+## 3.Intro to HTML & CSS
+
+[1.Intro to HTML & CSS](into_to_html_css/udacity_html_css.png) | [2.Learn HTML](into_to_html_css/code_academy_html.png)
+
+For me this is first expirience for create html pages and it's preety awesome to she the results of your work so fast!
+Marvelous expirience!
