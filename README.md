@@ -28,3 +28,10 @@ I have finished git Collaboration and feel with git preety confident. But should
 
 For me this is first expirience for create html pages and it's preety awesome to she the results of your work so fast!
 Marvelous expirience! Have never create grid, so for me this need more practice and work with css styles.
+
+## 4.Responsive Web Design
+
+[1.Responsive Web Design Fundamentals](task_responsive_web_design/responsive.png) | [2.Flexbox Froggy](task_responsive_web_design/froggy.png)
+
+Preety hard for me was the responsive wed design section. In the future I will get more courses about this theme because I want to have a responsive sites.
+But the main idea that I get is you need to be an artist and make beatuful, great UX for the users.
