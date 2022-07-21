@@ -24,7 +24,7 @@ I have finished git Collaboration and feel with git preety confident. But should
 
 ## 3.Intro to HTML & CSS
 
-[1.Intro to HTML & CSS](into_to_html_css/udacity_html_css.png) | [2.Learn HTML](into_to_html_css/code_academy_html.png) | [3.Learn CSS](into_to_html_css/code_academy_css.png)
+[1.Intro to HTML & CSS](task_html_css_intro/udacity_html_css.png) | [2.Learn HTML](task_html_css_intro/code_academy_html.png) | [3.Learn CSS](task_html_css_intro/code_academy_css.png)
 
 For me this is first expirience for create html pages and it's preety awesome to she the results of your work so fast!
 Marvelous expirience! Have never create grid, so for me this need more practice and work with css styles.
