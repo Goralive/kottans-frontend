@@ -31,7 +31,8 @@ Marvelous expirience! Have never create grid, so for me this need more practice 
 
 ## 4.Responsive Web Design
 
-[1.Responsive Web Design Fundamentals](task_responsive_web_design/responsive.png) | [2.Flexbox Froggy](task_responsive_web_design/froggy.png)
+[1.Responsive Web Design Fundamentals](task_responsive_web_design/responsive.png) | [2.Flexbox Froggy](task_responsive_web_design/froggy.png) | [3.Grid Garden](task_responsive_web_design/css_crid_garden.jpeg)
+
 
 Preety hard for me was the responsive wed design section. In the future I will get more courses about this theme because I want to have a responsive sites.
 But the main idea that I get is you need to be an artist and make beatuful, great UX for the users.
